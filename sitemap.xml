@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/page/about/</loc>
+    <loc>https://bblais.github.io/hugo-test/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://bblais.github.io/hugo-test/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/page/contact/</loc>
+    <loc>https://bblais.github.io/hugo-test/page/contact/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/page/</loc>
+    <loc>https://bblais.github.io/hugo-test/page/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/project/my-awesome-project/</loc>
+    <loc>https://bblais.github.io/hugo-test/project/my-awesome-project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>https://bblais.github.io/hugo-test/project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/creating-a-new-theme/</loc>
+    <loc>https://bblais.github.io/hugo-test/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://bblais.github.io/hugo-test/post/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/goisforlovers/</loc>
+    <loc>https://bblais.github.io/hugo-test/goisforlovers/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/development/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/tags/go/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/go/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/tags/golang/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/golang/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/migrate-from-jekyll/</loc>
+    <loc>https://bblais.github.io/hugo-test/migrate-from-jekyll/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/tags/templates/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/templates/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/tags/themes/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/themes/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://bblais.github.io/hugo-test/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/development/</loc>
+    <loc>https://bblais.github.io/hugo-test/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/hugoisforlovers/</loc>
+    <loc>https://bblais.github.io/hugo-test/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/golang/</loc>
+    <loc>https://bblais.github.io/hugo-test/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://bblais.github.io/hugo-test/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
